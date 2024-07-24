@@ -1,0 +1,77 @@
+Competitor,Sourcing_competitor,Restaurant_name,Tags,Average_basket_value,Country,City,City_code,Address,Postal Code,Latitude,Longitude,Phone_number,Rating,Reviews,Website,URL,Takeaway,Delivery
+Yelp,sourcing_yelp,L'Ancora,"Mediterranean, Seafood",NA,Spain,Cambrills,CBL,NA,NA,NA,NA,977 792 524,5,3 reviews,https://www.yelp.com,https://www.yelp.com/biz/l-ancora-cambrils,NA,NA
+Yelp,sourcing_yelp,Lekeitio,"Spanish, Tapas Bars",NA,Spain,Cambrills,CBL,NA,NA,NA,NA,977 794 668,4,9 reviews,https://www.yelp.com,https://www.yelp.com/biz/lekeitio-cambrils,NA,NA
+Yelp,sourcing_yelp,El Posito,Spanish,NA,Spain,Cambrills,CBL,NA,NA,NA,NA,977 369 604,5,4 reviews,https://www.yelp.com,https://www.yelp.com/biz/el-posito-cambrils,NA,NA
+Yelp,sourcing_yelp,New Orleans,"Breakfast & Brunch, Coffee & Tea",NA,Spain,Cambrills,CBL,NA,NA,NA,NA,NA,5,1 review,https://www.yelp.com,https://www.yelp.com/biz/new-orleans-cambrils,NA,NA
+Yelp,sourcing_yelp,Del Mar,"Seafood, Spanish",NA,Spain,Cambrills,CBL,NA,NA,NA,NA,NA,5,1 review,https://www.yelp.com,https://www.yelp.com/biz/del-mar-cambrils-2,NA,NA
+Yelp,sourcing_yelp,Restaurant las Palmeras,"Steakhouses, Spanish, Tapas/Small Plates",NA,Spain,Cambrills,CBL,NA,NA,NA,NA,977 363 188,4,5 reviews,https://www.yelp.com,https://www.yelp.com/biz/restaurant-las-palmeras-cambrils-2,NA,NA
+Yelp,sourcing_yelp,Puerto Madero,NA,NA,Spain,Cambrills,CBL,NA,NA,NA,NA,977 791 783,4,1 review,https://www.yelp.com,https://www.yelp.com/biz/puerto-madero-cambrils,NA,NA
+Yelp,sourcing_yelp,Denver Restaurant,Mediterranean,NA,Spain,Cambrills,CBL,NA,NA,NA,NA,977 360 023,4.5,5 reviews,https://www.yelp.com,https://www.yelp.com/biz/denver-restaurant-cambrils,NA,NA
+Yelp,sourcing_yelp,Al Punt,Mediterranean,NA,Spain,Cambrills,CBL,NA,NA,NA,NA,977 366 424,5,3 reviews,https://www.yelp.com,https://www.yelp.com/biz/al-punt-cambrils,NA,NA
+Yelp,sourcing_yelp,Les Fonts,NA,NA,Spain,Cambrills,CBL,NA,NA,NA,NA,977 793 352,5,1 review,https://www.yelp.com,https://www.yelp.com/biz/les-fonts-cambrils,NA,NA
+Yelp,sourcing_yelp,Can Bosch,"Spanish, Seafood",NA,Spain,Cambrills,CBL,NA,NA,NA,NA,977 360 019,4.5,5 reviews,https://www.yelp.com,https://www.yelp.com/biz/can-bosch-cambrils,NA,NA
+Yelp,sourcing_yelp,TEM,NA,NA,Spain,Cambrills,CBL,NA,NA,NA,NA,977 792 924,5,1 review,https://www.yelp.com,https://www.yelp.com/biz/tem-cambrils,NA,NA
+Yelp,sourcing_yelp,Can Jordi,Spanish,NA,Spain,Cambrills,CBL,NA,NA,NA,NA,NA,5,1 review,https://www.yelp.com,https://www.yelp.com/biz/can-jordi-cambrils,NA,NA
+Yelp,sourcing_yelp,Prick Thai,Thai,NA,Spain,Cambrills,CBL,NA,NA,NA,NA,877 067 957,5,2 reviews,https://www.yelp.com,https://www.yelp.com/biz/prick-thai-cambrils,NA,NA
+Yelp,sourcing_yelp,L'indret,Spanish,NA,Spain,Cambrills,CBL,NA,NA,NA,NA,977 793 426,5,4 reviews,https://www.yelp.com,https://www.yelp.com/biz/l-indret-cambrils,NA,NA
+Yelp,sourcing_yelp,La Macarrilla,"Catalan, Mediterranean",NA,Spain,Cambrills,CBL,NA,NA,NA,NA,977 360 814,5,2 reviews,https://www.yelp.com,https://www.yelp.com/biz/la-macarrilla-cambrils,NA,NA
+Yelp,sourcing_yelp,Can Albert,"Seafood, Mediterranean, Arroceria / Paella",NA,Spain,Cambrills,CBL,NA,NA,NA,NA,977 364 536,4.5,2 reviews,https://www.yelp.com,https://www.yelp.com/biz/can-albert-cambrils-2,NA,NA
+Yelp,sourcing_yelp,El Dos,NA,NA,Spain,Cambrills,CBL,NA,NA,NA,NA,617 283 840,4,2 reviews,https://www.yelp.com,https://www.yelp.com/biz/el-dos-cambrils,NA,NA
+Yelp,sourcing_yelp,Chapeau,"Cafeteria, Breakfast & Brunch",NA,Spain,Cambrills,CBL,NA,NA,NA,NA,977 352 815,5,3 reviews,https://www.yelp.com,https://www.yelp.com/biz/chapeau-salou,NA,NA
+Yelp,sourcing_yelp,Macarrilla,NA,NA,Spain,Cambrills,CBL,NA,NA,NA,NA,977 360 814,4,1 review,https://www.yelp.com,https://www.yelp.com/biz/macarrilla-cambrils,NA,NA
+Yelp,sourcing_yelp,Pizzeria Antica Roma Da Giorgio,Italian,NA,Spain,Cambrills,CBL,NA,NA,NA,NA,977 363 620,4.5,4 reviews,https://www.yelp.com,https://www.yelp.com/biz/pizzeria-antica-roma-da-giorgio-cambrils,NA,NA
+Yelp,sourcing_yelp,El Pati,Tapas/Small Plates,NA,Spain,Cambrills,CBL,NA,NA,NA,NA,977 634 054,3.5,3 reviews,https://www.yelp.com,https://www.yelp.com/biz/el-pati-cambrils,NA,NA
+Yelp,sourcing_yelp,La Tagliatella,NA,NA,Spain,Cambrills,CBL,NA,NA,NA,NA,977 368 789,4,1 review,https://www.yelp.com,https://www.yelp.com/biz/la-tagliatella-cambrils-2,NA,NA
+Yelp,sourcing_yelp,Restaurant Montserrat 2009,NA,NA,Spain,Cambrills,CBL,NA,NA,NA,NA,977 361 640,5,2 reviews,https://www.yelp.com,https://www.yelp.com/biz/restaurant-montserrat-2009-cambrils,NA,NA
+Yelp,sourcing_yelp,Costumbres Argentinas,NA,NA,Spain,Cambrills,CBL,NA,NA,NA,NA,977 365 314,5,2 reviews,https://www.yelp.com,https://www.yelp.com/biz/costumbres-argentinas-cambrils,NA,NA
+Yelp,sourcing_yelp,La Tortillita,"Spanish, Tapas Bars",NA,Spain,Cambrills,CBL,NA,NA,NA,NA,977 384 564,5,1 review,https://www.yelp.com,https://www.yelp.com/biz/la-tortillita-salou,NA,NA
+Yelp,sourcing_yelp,Veltins,NA,NA,Spain,Cambrills,CBL,NA,NA,NA,NA,977 364 755,4,2 reviews,https://www.yelp.com,https://www.yelp.com/biz/veltins-cambrils,NA,NA
+Yelp,sourcing_yelp,La Palmera de la Llosa,"Signature Cuisine, Catalan, Modern European",NA,Spain,Cambrills,CBL,NA,NA,NA,NA,977 793 354,4,1 review,https://www.yelp.com,https://www.yelp.com/biz/la-palmera-de-la-llosa-cambrils,NA,NA
+Yelp,sourcing_yelp,Sotacel,NA,NA,Spain,Cambrills,CBL,NA,NA,NA,NA,NA,5,1 review,https://www.yelp.com,https://www.yelp.com/biz/sotacel-cambrils-2,NA,NA
+Yelp,sourcing_yelp,Delfin,"Spanish, Seafood",NA,Spain,Cambrills,CBL,NA,NA,NA,NA,977 385 467,4.5,2 reviews,https://www.yelp.com,https://www.yelp.com/biz/delfin-salou,NA,NA
+Yelp,sourcing_yelp,La Morera de Pablo y Esther,Spanish,NA,Spain,Cambrills,CBL,NA,NA,NA,NA,977 385 763,5,4 reviews,https://www.yelp.com,https://www.yelp.com/biz/la-morera-de-pablo-y-esther-salou,NA,NA
+Yelp,sourcing_yelp,Terramar,NA,NA,Spain,Cambrills,CBL,NA,NA,NA,NA,977 383 124,4,2 reviews,https://www.yelp.com,https://www.yelp.com/biz/terramar-salou,NA,NA
+Yelp,sourcing_yelp,Lunattic,Supper Clubs,NA,Spain,Cambrills,CBL,NA,NA,NA,NA,977 383 111,4.5,3 reviews,https://www.yelp.com,https://www.yelp.com/biz/lunattic-salou,NA,NA
+Yelp,sourcing_yelp,Thai Orchid,NA,NA,Spain,Cambrills,CBL,NA,NA,NA,NA,NA,4,1 review,https://www.yelp.com,https://www.yelp.com/biz/thai-orchid-cambrils,NA,NA
+Yelp,sourcing_yelp,Cilemar Catalunya,NA,NA,Spain,Cambrills,CBL,NA,NA,NA,NA,977 369 536,5,1 review,https://www.yelp.com,https://www.yelp.com/biz/cilemar-catalunya-cambrils,NA,NA
+Yelp,sourcing_yelp,Les Barques,"Mediterranean, Seafood",NA,Spain,Cambrills,CBL,NA,NA,NA,NA,977 351 566,5,5 reviews,https://www.yelp.com,https://www.yelp.com/biz/les-barques-salou,NA,NA
+Yelp,sourcing_yelp,La Vicaria,NA,NA,Spain,Cambrills,CBL,NA,NA,NA,NA,977 345 222,5,1 review,https://www.yelp.com,https://www.yelp.com/biz/la-vicaria-reus,NA,NA
+Yelp,sourcing_yelp,El Rincon de Iruña,Spanish,NA,Spain,Cambrills,CBL,NA,NA,NA,NA,977 365 182,5,2 reviews,https://www.yelp.com,https://www.yelp.com/biz/el-rincon-de-iru%C3%B1a-cambrils,NA,NA
+Yelp,sourcing_yelp,Les Barques - La Pineda,NA,NA,Spain,Cambrills,CBL,NA,NA,NA,NA,977 371 078,5,2 reviews,https://www.yelp.com,https://www.yelp.com/biz/les-barques-la-pineda-la-pineda,NA,NA
+Yelp,sourcing_yelp,La Ermita de Mare de Deu De la Roca,NA,NA,Spain,Cambrills,CBL,NA,NA,NA,NA,977 837 760,5,1 review,https://www.yelp.com,https://www.yelp.com/biz/la-ermita-de-mare-de-deu-de-la-roca-montroig,NA,NA
+Yelp,sourcing_yelp,Denver Platja,NA,NA,Spain,Cambrills,CBL,NA,NA,NA,NA,NA,4.5,2 reviews,https://www.yelp.com,https://www.yelp.com/biz/denver-platja-marina-de-cambrils,NA,NA
+Yelp,sourcing_yelp,Indian Spice,NA,NA,Spain,Cambrills,CBL,NA,NA,NA,NA,722 316 725,5,1 review,https://www.yelp.com,https://www.yelp.com/biz/indian-spice-salou,NA,NA
+Yelp,sourcing_yelp,Dos G,"Spanish, Lounges",NA,Spain,Cambrills,CBL,NA,NA,NA,NA,977 553 309,5,5 reviews,https://www.yelp.com,https://www.yelp.com/biz/dos-g-salou,NA,NA
+Yelp,sourcing_yelp,El Tiberi,NA,NA,Spain,Cambrills,CBL,NA,NA,NA,NA,977 242 896,4,6 reviews,https://www.yelp.com,https://www.yelp.com/biz/el-tiberi-tarragona,NA,NA
+Yelp,sourcing_yelp,Mucky Duck,NA,NA,Spain,Cambrills,CBL,NA,NA,NA,NA,NA,4,1 review,https://www.yelp.com,https://www.yelp.com/biz/mucky-duck-vilafortuny,NA,NA
+Yelp,sourcing_yelp,Ches,Burgers,NA,Spain,Cambrills,CBL,NA,NA,NA,NA,977 362 738,4,1 review,https://www.yelp.com,https://www.yelp.com/biz/ches-cambrils,NA,NA
+Yelp,sourcing_yelp,O Mar Restaurant,Seafood,NA,Spain,Cambrills,CBL,NA,NA,NA,NA,977 383 938,5,2 reviews,https://www.yelp.com,https://www.yelp.com/biz/o-mar-restaurant-salou,NA,NA
+Yelp,sourcing_yelp,Juniors Tapas,NA,NA,Spain,Cambrills,CBL,NA,NA,NA,NA,634 134 900,5,1 review,https://www.yelp.com,https://www.yelp.com/biz/juniors-tapas-cambrils,NA,NA
+Yelp,sourcing_yelp,Miramar,NA,NA,Spain,Cambrills,CBL,NA,NA,NA,NA,977 360 063,4,1 review,https://www.yelp.com,https://www.yelp.com/biz/miramar-cambrils,NA,NA
+Yelp,sourcing_yelp,Spaghetti House,Italian,NA,Spain,Cambrills,CBL,NA,NA,NA,NA,877 059 689,3.5,3 reviews,https://www.yelp.com,https://www.yelp.com/biz/spaghetti-house-vila-seca-de-solcina,NA,NA
+Yelp,sourcing_yelp,Quattros,"Tapas/Small Plates, Catalan, Beer Bar",NA,Spain,Cambrills,CBL,NA,NA,NA,NA,977 225 941,4.5,4 reviews,https://www.yelp.com,https://www.yelp.com/biz/quattros-tarragona,NA,NA
+Yelp,sourcing_yelp,Casa Shanghai,NA,NA,Spain,Cambrills,CBL,NA,NA,NA,NA,977 363 906,4,Chinese,https://www.yelp.com,https://www.yelp.com/biz/casa-shanghai-cambrils,NA,NA
+Yelp,sourcing_yelp,La Venus de Pepe,"Italian, Food Delivery Services, Mediterranean",NA,Spain,Cambrills,CBL,NA,NA,NA,NA,977 350 119,4,1 review,https://www.yelp.com,https://www.yelp.com/biz/la-venus-de-pepe-salou,NA,NA
+Yelp,sourcing_yelp,Knights Inn,Spanish,NA,Spain,Cambrills,CBL,NA,NA,NA,NA,NA,5,1 review,https://www.yelp.com,https://www.yelp.com/biz/knights-inn-salou,NA,NA
+Yelp,sourcing_yelp,NA,NA,NA,Spain,Cambrills,CBL,NA,NA,NA,NA,NA,NA,NA,https://www.yelp.com,https://www.yelp.com/biz/rinc%C3%B3n-de-diego-cambrils-3,NA,NA
+Yelp,sourcing_yelp,Dorado,Mediterranean,NA,Spain,Cambrills,CBL,NA,NA,NA,NA,977 370 947,4.5,6 reviews,https://www.yelp.com,https://www.yelp.com/biz/dorado-vila-seca,NA,NA
+Yelp,sourcing_yelp,Elektra Xiringuito,NA,NA,Spain,Cambrills,CBL,NA,NA,NA,NA,656 498 111,5,1 review,https://www.yelp.com,https://www.yelp.com/biz/elektra-xiringuito-salou,NA,NA
+Yelp,sourcing_yelp,NA,NA,NA,Spain,Cambrills,CBL,NA,NA,NA,NA,NA,NA,NA,https://www.yelp.com,https://www.yelp.com/biz/asador-llagar-montbrio-del-camp,NA,NA
+Yelp,sourcing_yelp,Chino Ciudad Feliz,NA,NA,Spain,Cambrills,CBL,NA,NA,NA,NA,977 791 579,4,1 review,https://www.yelp.com,https://www.yelp.com/biz/chino-ciudad-feliz-cambrils,NA,NA
+Yelp,sourcing_yelp,Alhambra,Restaurants,NA,Spain,Cambrills,CBL,NA,NA,NA,NA,977 823 120,4.5,2 reviews,https://www.yelp.com,https://www.yelp.com/biz/alhambra-l-hospitalet-de-l-infant,NA,NA
+Yelp,sourcing_yelp,La Caleta,NA,NA,Spain,Cambrills,CBL,NA,NA,NA,NA,977 372 513,5,1 review,https://www.yelp.com,https://www.yelp.com/biz/la-caleta-la-pineda,NA,NA
+Yelp,sourcing_yelp,Zia María,"Salad, Italian",NA,Spain,Cambrills,CBL,NA,NA,NA,NA,977 364 362,4,6 reviews,https://www.yelp.com,https://www.yelp.com/biz/zia-mar%C3%ADa-cambrils-3,NA,NA
+Yelp,sourcing_yelp,NA,NA,NA,Spain,Cambrills,CBL,NA,NA,NA,NA,NA,NA,NA,https://www.yelp.com,https://www.yelp.com/biz/la-cuineta-tarragona,NA,NA
+Yelp,sourcing_yelp,Casavella,Mediterranean,NA,Spain,Cambrills,CBL,NA,NA,NA,NA,977 364 712,3,1 review,https://www.yelp.com,https://www.yelp.com/biz/casavella-cambrils,NA,NA
+Yelp,sourcing_yelp,Restaurante Acuamar,NA,NA,Spain,Cambrills,CBL,NA,NA,NA,NA,977 360 059,NA,Seafood,https://www.yelp.com,https://www.yelp.com/biz/restaurante-acuamar-cambrils,NA,NA
+Yelp,sourcing_yelp,El Maset,NA,NA,Spain,Cambrills,CBL,NA,NA,NA,NA,977 826 838,5,1 review,https://www.yelp.com,https://www.yelp.com/biz/el-maset-montbrio-del-camp,NA,NA
+Yelp,sourcing_yelp,Ruiz Olmo Antonia,NA,NA,Spain,Cambrills,CBL,NA,NA,NA,NA,977 365 314,NA,Restaurants,https://www.yelp.com,https://www.yelp.com/biz/ruiz-olmo-antonia-cambrils,NA,NA
+Yelp,sourcing_yelp,Restauracio Cambrilenca Tomas i Gami,NA,NA,Spain,Cambrills,CBL,NA,NA,NA,NA,977 364 054,NA,Restaurants,https://www.yelp.com,https://www.yelp.com/biz/restauracio-cambrilenca-tomas-i-gami-cambrils-2,NA,NA
+Yelp,sourcing_yelp,La Tagliatella,NA,NA,Spain,Cambrills,CBL,NA,NA,NA,NA,977 373 018,4.5,3 reviews,https://www.yelp.com,https://www.yelp.com/biz/la-tagliatella-la-pineda,NA,NA
+Yelp,sourcing_yelp,NA,NA,NA,Spain,Cambrills,CBL,NA,NA,NA,NA,NA,NA,NA,https://www.yelp.com,https://www.yelp.com/biz/espai-vi-tarragona,NA,NA
+Yelp,sourcing_yelp,Bocoisl,NA,NA,Spain,Cambrills,CBL,NA,NA,NA,NA,628 582 458,5,2 reviews,https://www.yelp.com,https://www.yelp.com/biz/bocoisl-tarragona,NA,NA
+Yelp,sourcing_yelp,Acuario,Spanish,NA,Spain,Cambrills,CBL,NA,NA,NA,NA,679 954 424,4,1 review,https://www.yelp.com,https://www.yelp.com/biz/acuario-cambrils,NA,NA
+Yelp,sourcing_yelp,Mas Roselló,NA,NA,Spain,Cambrills,CBL,NA,NA,NA,NA,977 241 828,5,3 reviews,https://www.yelp.com,https://www.yelp.com/biz/mas-rosell%C3%B3-tarragona,NA,NA
+Yelp,sourcing_yelp,La Botifarra,Catalan,NA,Spain,Cambrills,CBL,NA,NA,NA,NA,977 216 551,5,3 reviews,https://www.yelp.com,https://www.yelp.com/biz/la-botifarra-tarragona,NA,NA
+Yelp,sourcing_yelp,Bresca,NA,NA,Spain,Cambrills,CBL,NA,NA,NA,NA,977 369 512,NA,Mediterranean,https://www.yelp.com,https://www.yelp.com/biz/bresca-tarragona,NA,NA
+Yelp,sourcing_yelp,Deliranto,NA,NA,Spain,Cambrills,CBL,NA,NA,NA,NA,977 380 942,5,1 review,https://www.yelp.com,https://www.yelp.com/biz/deliranto-salou,NA,NA
